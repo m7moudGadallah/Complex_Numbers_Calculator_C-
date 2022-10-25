@@ -2,8 +2,8 @@
 - this repo contains C# class that manipulate Complex numbers
   
 ## Content
-- **Complex** `class`
-- **Program** `class`
+- **[Complex](https://github.com/m7moudGadallah/Complex_Numbers_Calculator_C-#complex-class)** `class`
+- **[Program](https://github.com/m7moudGadallah/Complex_Numbers_Calculator_C-#program-class)** `class`
 - **Testing**
 
 
@@ -25,5 +25,5 @@
 ### [Program class](https://github.com/m7moudGadallah/Complex_Numbers_Calculator_C-/blob/main/Complex_Number_App/Program.cs)
 This class just contains main method and test complex class in it
 
-###Testing
+### Testing
 ![Testing Image](https://github.com/m7moudGadallah/Complex_Numbers_Calculator_C-/blob/main/Testing_image.png?raw=true)
