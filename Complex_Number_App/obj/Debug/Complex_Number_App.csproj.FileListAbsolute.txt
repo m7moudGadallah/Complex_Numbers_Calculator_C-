@@ -1,0 +1,8 @@
+E:\Colleague\3.Year3\Data Structure\programs\Complex_Number_App\Complex_Number_App\bin\Debug\Complex_Number_App.exe.config
+E:\Colleague\3.Year3\Data Structure\programs\Complex_Number_App\Complex_Number_App\bin\Debug\Complex_Number_App.exe
+E:\Colleague\3.Year3\Data Structure\programs\Complex_Number_App\Complex_Number_App\bin\Debug\Complex_Number_App.pdb
+E:\Colleague\3.Year3\Data Structure\programs\Complex_Number_App\Complex_Number_App\obj\Debug\Complex_Number_App.csproj.AssemblyReference.cache
+E:\Colleague\3.Year3\Data Structure\programs\Complex_Number_App\Complex_Number_App\obj\Debug\Complex_Number_App.csproj.SuggestedBindingRedirects.cache
+E:\Colleague\3.Year3\Data Structure\programs\Complex_Number_App\Complex_Number_App\obj\Debug\Complex_Number_App.csproj.CoreCompileInputs.cache
+E:\Colleague\3.Year3\Data Structure\programs\Complex_Number_App\Complex_Number_App\obj\Debug\Complex_Number_App.exe
+E:\Colleague\3.Year3\Data Structure\programs\Complex_Number_App\Complex_Number_App\obj\Debug\Complex_Number_App.pdb
