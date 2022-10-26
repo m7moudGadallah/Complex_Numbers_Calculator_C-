@@ -18,7 +18,7 @@
     - This method just takes 2 complex numbers as strings and res string and modifing res string with the value of subtraction
   - ***Multi Method***
     - This method just takes 2 complex numbers as strings and res string and modifing res string with the value of Multiplication
-  - ***Devision Method*** {#dm}
+  - ***Devision Method***
     - This method just takes 2 complex numbers as strings and res string and modifing res string with the value of Devision
 
 
